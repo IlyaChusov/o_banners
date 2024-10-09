@@ -1,0 +1,3154 @@
+
+time: 13:25:11 01.10.2024
+kekw
+
+time: 13:25:28 01.10.2024
+kekw
+
+time: 16:25:45 01.10.2024
+kekw
+
+2024-10-01_16:27:06
+creating driver
+
+time: 16:28:06 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_16:40:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+Traceback (most recent call last):
+  File "/home/IChusov/parse_banners.py", line 16, in <module>
+    driver = uc.Chrome(options=opt, user_data_dir='/home/IChusov/chrome-profiles', driver_executable_path='/home/IChusov/chromedriver-129/chromedriver', browser_executable_path='/home/IChusov/chrome-linux64/chrome', headless=True, use_subprocess=False)
+  File "/usr/local/lib/python3.10/dist-packages/undetected_chromedriver/__init__.py", line 466, in __init__
+    super(Chrome, self).__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 212, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/undetected_chromedriver/__init__.py", line 724, in start_session
+    super(selenium.webdriver.chrome.webdriver.WebDriver, self).start_session(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 299, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: cannot connect to chrome at 127.0.0.1:56865
+from chrome not reachable
+Stacktrace:
+#0 0x55a68464510a <unknown>
+#1 0x55a68432b43d <unknown>
+#2 0x55a6843171ff <unknown>
+#3 0x55a684368e43 <unknown>
+#4 0x55a68435eb1a <unknown>
+#5 0x55a6843abdf6 <unknown>
+#6 0x55a6843ab446 <unknown>
+#7 0x55a68439f8c3 <unknown>
+#8 0x55a68436d6b3 <unknown>
+#9 0x55a68436e68e <unknown>
+#10 0x55a68460fb0b <unknown>
+#11 0x55a684613a91 <unknown>
+#12 0x55a6845fc305 <unknown>
+#13 0x55a684614612 <unknown>
+#14 0x55a6845e146f <unknown>
+#15 0x55a684634008 <unknown>
+#16 0x55a6846341d3 <unknown>
+#17 0x55a684643f5c <unknown>
+#18 0x7faf735b6609 start_thread
+
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+
+time: 16:52:02 01.10.2024
+
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+
+time: 16:54:01 01.10.2024
+
+
+2024-10-01_16:54:48
+creating driver
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+
+time: 17:28:01 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_17:30:02
+IChusov
+
+time: 17:30:02 01.10.2024
+IChusov
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_17:32:02
+root
+
+time: 17:32:02 01.10.2024
+root
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_17:33:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-01 17:33:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/cbae0485-772e-11ef-9ba2-fe94ab6be75b.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49018 (48K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/cbae0485-772e-11ef-9ba2-fe94ab6be75b’
+
+     0K .......... .......... .......... .......... .......   100% 9,55M=0,005s
+
+2024-10-01 17:33:09 (9,55 MB/s) - ‘/home/IChusov/ozon_banners/cbae0485-772e-11ef-9ba2-fe94ab6be75b’ saved [49018/49018]
+
+
+2024-10-01_17:33:09
+found new banner: cbae0485-772e-11ef-9ba2-fe94ab6be75b
+--2024-10-01 17:33:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/8ac3a441-5558-11ef-9be0-de62d5e9bd81.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16832 (16K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/8ac3a441-5558-11ef-9be0-de62d5e9bd81’
+
+     0K .......... ......                                     100% 34,7M=0s
+
+2024-10-01 17:33:10 (34,7 MB/s) - ‘/home/IChusov/ozon_banners/8ac3a441-5558-11ef-9be0-de62d5e9bd81’ saved [16832/16832]
+
+
+2024-10-01_17:33:10
+found new banner: 8ac3a441-5558-11ef-9be0-de62d5e9bd81
+--2024-10-01 17:33:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/e9e522ae-7cc4-11ef-a1a1-da305b560a93.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46722 (46K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/e9e522ae-7cc4-11ef-a1a1-da305b560a93’
+
+     0K .......... .......... .......... .......... .....     100% 13,2M=0,003s
+
+2024-10-01 17:33:10 (13,2 MB/s) - ‘/home/IChusov/ozon_banners/e9e522ae-7cc4-11ef-a1a1-da305b560a93’ saved [46722/46722]
+
+
+2024-10-01_17:33:10
+found new banner: e9e522ae-7cc4-11ef-a1a1-da305b560a93
+
+2024-10-01_17:33:10
+closing parser
+
+time: 17:33:10 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_17:48:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-01 17:48:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/bcbb2335-71cf-11ef-8287-d250a998b874.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30358 (30K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/bcbb2335-71cf-11ef-8287-d250a998b874’
+
+     0K .......... .......... .........                       100% 39,1M=0,001s
+
+2024-10-01 17:48:09 (39,1 MB/s) - ‘/home/IChusov/ozon_banners/bcbb2335-71cf-11ef-8287-d250a998b874’ saved [30358/30358]
+
+
+2024-10-01_17:48:09
+found new banner: bcbb2335-71cf-11ef-8287-d250a998b874
+
+2024-10-01_17:48:10
+closing parser
+
+time: 17:48:10 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_18:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-01_18:30:09
+closing parser
+
+time: 18:30:09 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_19:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-01 19:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/ba9d653d-5556-11ef-9bbe-a617f69bc3df.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19836 (19K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/ba9d653d-5556-11ef-9bbe-a617f69bc3df’
+
+     0K .......... .........                                  100% 35,0M=0,001s
+
+2024-10-01 19:30:09 (35,0 MB/s) - ‘/home/IChusov/ozon_banners/ba9d653d-5556-11ef-9bbe-a617f69bc3df’ saved [19836/19836]
+
+
+2024-10-01_19:30:09
+found new banner: ba9d653d-5556-11ef-9bbe-a617f69bc3df
+--2024-10-01 19:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/bb261067-7f3a-11ef-9841-9ef87d5d18b1.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27796 (27K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/bb261067-7f3a-11ef-9841-9ef87d5d18b1’
+
+     0K .......... .......... .......                         100% 21,3M=0,001s
+
+2024-10-01 19:30:09 (21,3 MB/s) - ‘/home/IChusov/ozon_banners/bb261067-7f3a-11ef-9841-9ef87d5d18b1’ saved [27796/27796]
+
+
+2024-10-01_19:30:09
+found new banner: bb261067-7f3a-11ef-9841-9ef87d5d18b1
+
+2024-10-01_19:30:09
+closing parser
+
+time: 19:30:09 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_20:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-01_20:30:10
+closing parser
+
+time: 20:30:10 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-01_21:30:10
+closing parser
+
+time: 21:30:10 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-01 22:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/062a383e-7fea-11ef-8e39-06cfd263c7e9.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52434 (51K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/062a383e-7fea-11ef-8e39-06cfd263c7e9’
+
+     0K .......... .......... .......... .......... .......... 97% 10,4M 0s
+    50K .                                                     100% 2299G=0,005s
+
+2024-10-01 22:30:10 (10,7 MB/s) - ‘/home/IChusov/ozon_banners/062a383e-7fea-11ef-8e39-06cfd263c7e9’ saved [52434/52434]
+
+
+2024-10-01_22:30:10
+found new banner: 062a383e-7fea-11ef-8e39-06cfd263c7e9
+
+2024-10-01_22:30:10
+closing parser
+
+time: 22:30:10 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-01_23:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-01_23:30:09
+closing parser
+
+time: 23:30:09 01.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_00:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/36f715f3-7cda-11ef-837d-1636d0af0dc6.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29920 (29K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/36f715f3-7cda-11ef-837d-1636d0af0dc6’
+
+     0K .......... .......... .........                       100% 29,9M=0,001s
+
+2024-10-02 00:30:09 (29,9 MB/s) - ‘/home/IChusov/ozon_banners/36f715f3-7cda-11ef-837d-1636d0af0dc6’ saved [29920/29920]
+
+
+2024-10-02_00:30:09
+found new banner: 36f715f3-7cda-11ef-837d-1636d0af0dc6
+--2024-10-02 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/3c3fd36e-7fd3-11ef-ac65-6ee105257764.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76642 (75K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/3c3fd36e-7fd3-11ef-ac65-6ee105257764’
+
+     0K .......... .......... .......... .......... .......... 66% 12,9M 0s
+    50K .......... .......... ....                            100% 35,4M=0,004s
+
+2024-10-02 00:30:09 (16,3 MB/s) - ‘/home/IChusov/ozon_banners/3c3fd36e-7fd3-11ef-ac65-6ee105257764’ saved [76642/76642]
+
+
+2024-10-02_00:30:09
+found new banner: 3c3fd36e-7fd3-11ef-ac65-6ee105257764
+--2024-10-02 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/51ca03c2-7f43-11ef-9d9c-d638bedb0a14.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21680 (21K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/51ca03c2-7f43-11ef-9d9c-d638bedb0a14’
+
+     0K .......... .......... .                               100% 45,3M=0s
+
+2024-10-02 00:30:09 (45,3 MB/s) - ‘/home/IChusov/ozon_banners/51ca03c2-7f43-11ef-9d9c-d638bedb0a14’ saved [21680/21680]
+
+
+2024-10-02_00:30:09
+found new banner: 51ca03c2-7f43-11ef-9d9c-d638bedb0a14
+
+2024-10-02_00:30:09
+closing parser
+
+time: 00:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_01:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 01:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/a7283254-7cda-11ef-837d-1636d0af0dc6.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27896 (27K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/a7283254-7cda-11ef-837d-1636d0af0dc6’
+
+     0K .......... .......... .......                         100% 36,8M=0,001s
+
+2024-10-02 01:30:09 (36,8 MB/s) - ‘/home/IChusov/ozon_banners/a7283254-7cda-11ef-837d-1636d0af0dc6’ saved [27896/27896]
+
+
+2024-10-02_01:30:09
+found new banner: a7283254-7cda-11ef-837d-1636d0af0dc6
+--2024-10-02 01:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/3797b570-5ae6-11ef-8da2-267d81b82d95.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29928 (29K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/3797b570-5ae6-11ef-8da2-267d81b82d95’
+
+     0K .......... .......... .........                       100% 31,7M=0,001s
+
+2024-10-02 01:30:09 (31,7 MB/s) - ‘/home/IChusov/ozon_banners/3797b570-5ae6-11ef-8da2-267d81b82d95’ saved [29928/29928]
+
+
+2024-10-02_01:30:09
+found new banner: 3797b570-5ae6-11ef-8da2-267d81b82d95
+
+2024-10-02_01:30:09
+closing parser
+
+time: 01:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_02:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 02:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/d98f83e2-7cda-11ef-8b7b-6a1eff99f629.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15518 (15K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/d98f83e2-7cda-11ef-8b7b-6a1eff99f629’
+
+     0K .......... .....                                      100% 52,6M=0s
+
+2024-10-02 02:30:09 (52,6 MB/s) - ‘/home/IChusov/ozon_banners/d98f83e2-7cda-11ef-8b7b-6a1eff99f629’ saved [15518/15518]
+
+
+2024-10-02_02:30:09
+found new banner: d98f83e2-7cda-11ef-8b7b-6a1eff99f629
+
+2024-10-02_02:30:09
+closing parser
+
+time: 02:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_03:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 03:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/96403f7f-7d02-11ef-b101-ae34457a51d9.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28106 (27K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/96403f7f-7d02-11ef-b101-ae34457a51d9’
+
+     0K .......... .......... .......                         100% 21,0M=0,001s
+
+2024-10-02 03:30:10 (21,0 MB/s) - ‘/home/IChusov/ozon_banners/96403f7f-7d02-11ef-b101-ae34457a51d9’ saved [28106/28106]
+
+
+2024-10-02_03:30:10
+found new banner: 96403f7f-7d02-11ef-b101-ae34457a51d9
+--2024-10-02 03:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/011ad18f-7a52-11ef-ae1b-22e39e16aae0.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29088 (28K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/011ad18f-7a52-11ef-ae1b-22e39e16aae0’
+
+     0K .......... .......... ........                        100% 39,0M=0,001s
+
+2024-10-02 03:30:10 (39,0 MB/s) - ‘/home/IChusov/ozon_banners/011ad18f-7a52-11ef-ae1b-22e39e16aae0’ saved [29088/29088]
+
+
+2024-10-02_03:30:10
+found new banner: 011ad18f-7a52-11ef-ae1b-22e39e16aae0
+
+2024-10-02_03:30:10
+closing parser
+
+time: 03:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_04:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_04:30:10
+closing parser
+
+time: 04:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_05:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 05:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/2b9b354d-765c-11ef-974e-6aba871fa628.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48086 (47K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/2b9b354d-765c-11ef-974e-6aba871fa628’
+
+     0K .......... .......... .......... .......... ......    100% 12,0M=0,004s
+
+2024-10-02 05:30:09 (12,0 MB/s) - ‘/home/IChusov/ozon_banners/2b9b354d-765c-11ef-974e-6aba871fa628’ saved [48086/48086]
+
+
+2024-10-02_05:30:09
+found new banner: 2b9b354d-765c-11ef-974e-6aba871fa628
+
+2024-10-02_05:30:10
+closing parser
+
+time: 05:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 06:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/33077dff-7b55-11ef-b274-62747d7a0f2b.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26726 (26K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/33077dff-7b55-11ef-b274-62747d7a0f2b’
+
+     0K .......... .......... ......                          100% 31,3M=0,001s
+
+2024-10-02 06:30:09 (31,3 MB/s) - ‘/home/IChusov/ozon_banners/33077dff-7b55-11ef-b274-62747d7a0f2b’ saved [26726/26726]
+
+
+2024-10-02_06:30:09
+found new banner: 33077dff-7b55-11ef-b274-62747d7a0f2b
+--2024-10-02 06:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/d158b1bb-7cc3-11ef-9a14-627465bceb22.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53314 (52K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/d158b1bb-7cc3-11ef-9a14-627465bceb22’
+
+     0K .......... .......... .......... .......... .......... 96% 13,6M 0s
+    50K ..                                                    100% 3938G=0,004s
+
+2024-10-02 06:30:09 (14,2 MB/s) - ‘/home/IChusov/ozon_banners/d158b1bb-7cc3-11ef-9a14-627465bceb22’ saved [53314/53314]
+
+
+2024-10-02_06:30:09
+found new banner: d158b1bb-7cc3-11ef-9a14-627465bceb22
+
+2024-10-02_06:30:10
+closing parser
+
+time: 06:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_07:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_07:30:09
+closing parser
+
+time: 07:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_08:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 08:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/626e8d8c-70ee-11ef-a53e-eae4e7e33098.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21110 (21K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/626e8d8c-70ee-11ef-a53e-eae4e7e33098’
+
+     0K .......... ..........                                 100% 28,8M=0,001s
+
+2024-10-02 08:30:09 (28,8 MB/s) - ‘/home/IChusov/ozon_banners/626e8d8c-70ee-11ef-a53e-eae4e7e33098’ saved [21110/21110]
+
+
+2024-10-02_08:30:09
+found new banner: 626e8d8c-70ee-11ef-a53e-eae4e7e33098
+
+2024-10-02_08:30:09
+closing parser
+
+time: 08:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_09:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 09:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/1ed6e912-765b-11ef-9931-225192823718.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57326 (56K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/1ed6e912-765b-11ef-9931-225192823718’
+
+     0K .......... .......... .......... .......... .......... 89% 14,9M 0s
+    50K .....                                                 100% 17,8M=0,004s
+
+2024-10-02 09:30:09 (15,2 MB/s) - ‘/home/IChusov/ozon_banners/1ed6e912-765b-11ef-9931-225192823718’ saved [57326/57326]
+
+
+2024-10-02_09:30:09
+found new banner: 1ed6e912-765b-11ef-9931-225192823718
+--2024-10-02 09:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/5b8b55fc-79b1-11ef-b466-6211ef080a7a.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54332 (53K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/5b8b55fc-79b1-11ef-b466-6211ef080a7a’
+
+     0K .......... .......... .......... .......... .......... 94% 10,4M 0s
+    50K ...                                                   100% 5834G=0,005s
+
+2024-10-02 09:30:09 (11,0 MB/s) - ‘/home/IChusov/ozon_banners/5b8b55fc-79b1-11ef-b466-6211ef080a7a’ saved [54332/54332]
+
+
+2024-10-02_09:30:09
+found new banner: 5b8b55fc-79b1-11ef-b466-6211ef080a7a
+
+2024-10-02_09:30:09
+closing parser
+
+time: 09:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_10:30:03
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 10:30:14--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/906c97a9-7f3d-11ef-aa43-e2e14c06ae23.png
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37346 (36K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/906c97a9-7f3d-11ef-aa43-e2e14c06ae23’
+
+     0K .......... .......... .......... ......               100% 40,8M=0,001s
+
+2024-10-02 10:30:14 (40,8 MB/s) - ‘/home/IChusov/ozon_banners/906c97a9-7f3d-11ef-aa43-e2e14c06ae23’ saved [37346/37346]
+
+
+2024-10-02_10:30:14
+found new banner: 906c97a9-7f3d-11ef-aa43-e2e14c06ae23
+--2024-10-02 10:30:14--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/d8c33abb-7b27-11ef-a95f-0a513b09dee9.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44658 (44K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/d8c33abb-7b27-11ef-a95f-0a513b09dee9’
+
+     0K .......... .......... .......... .......... ...       100% 12,6M=0,003s
+
+2024-10-02 10:30:14 (12,6 MB/s) - ‘/home/IChusov/ozon_banners/d8c33abb-7b27-11ef-a95f-0a513b09dee9’ saved [44658/44658]
+
+
+2024-10-02_10:30:14
+found new banner: d8c33abb-7b27-11ef-a95f-0a513b09dee9
+
+2024-10-02_10:30:14
+closing parser
+
+time: 10:30:14 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_11:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 11:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/8bb94991-7ffe-11ef-bee3-7a49b4df8dbb.png
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32454 (32K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/8bb94991-7ffe-11ef-bee3-7a49b4df8dbb’
+
+     0K .......... .......... .......... .                    100% 35,5M=0,001s
+
+2024-10-02 11:30:10 (35,5 MB/s) - ‘/home/IChusov/ozon_banners/8bb94991-7ffe-11ef-bee3-7a49b4df8dbb’ saved [32454/32454]
+
+
+2024-10-02_11:30:10
+found new banner: 8bb94991-7ffe-11ef-bee3-7a49b4df8dbb
+
+2024-10-02_11:30:10
+closing parser
+
+time: 11:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_12:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_12:30:10
+closing parser
+
+time: 12:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 13:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/966a53c0-80a2-11ef-9526-e6d38f034823.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33048 (32K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/966a53c0-80a2-11ef-9526-e6d38f034823’
+
+     0K .......... .......... .......... ..                   100% 30,7M=0,001s
+
+2024-10-02 13:30:09 (30,7 MB/s) - ‘/home/IChusov/ozon_banners/966a53c0-80a2-11ef-9526-e6d38f034823’ saved [33048/33048]
+
+
+2024-10-02_13:30:09
+found new banner: 966a53c0-80a2-11ef-9526-e6d38f034823
+
+2024-10-02_13:30:10
+closing parser
+
+time: 13:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_14:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_14:30:10
+closing parser
+
+time: 14:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_15:30:10
+closing parser
+
+time: 15:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_16:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 16:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/53a62f67-7cc5-11ef-837d-1636d0af0dc6.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47582 (46K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/53a62f67-7cc5-11ef-837d-1636d0af0dc6’
+
+     0K .......... .......... .......... .......... ......    100% 8,60M=0,005s
+
+2024-10-02 16:30:09 (8,60 MB/s) - ‘/home/IChusov/ozon_banners/53a62f67-7cc5-11ef-837d-1636d0af0dc6’ saved [47582/47582]
+
+
+2024-10-02_16:30:09
+found new banner: 53a62f67-7cc5-11ef-837d-1636d0af0dc6
+
+2024-10-02_16:30:09
+closing parser
+
+time: 16:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_17:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_17:30:10
+closing parser
+
+time: 17:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_18:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_18:30:09
+closing parser
+
+time: 18:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_19:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_19:30:09
+closing parser
+
+time: 19:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_20:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 20:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/299cd6ff-1f58-11ef-97f0-1a51845bdf27.png
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19104 (19K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/299cd6ff-1f58-11ef-97f0-1a51845bdf27’
+
+     0K .......... ........                                   100% 27,1M=0,001s
+
+2024-10-02 20:30:10 (27,1 MB/s) - ‘/home/IChusov/ozon_banners/299cd6ff-1f58-11ef-97f0-1a51845bdf27’ saved [19104/19104]
+
+
+2024-10-02_20:30:10
+found new banner: 299cd6ff-1f58-11ef-97f0-1a51845bdf27
+
+2024-10-02_20:30:10
+closing parser
+
+time: 20:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_21:30:10
+closing parser
+
+time: 21:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-02_22:30:09
+closing parser
+
+time: 22:30:10 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-02_23:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-02 23:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/7d291152-7be9-11ef-9e92-7e88ea5650dc.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30632 (30K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/7d291152-7be9-11ef-9e92-7e88ea5650dc’
+
+     0K .......... .......... .........                       100% 21,4M=0,001s
+
+2024-10-02 23:30:09 (21,4 MB/s) - ‘/home/IChusov/ozon_banners/7d291152-7be9-11ef-9e92-7e88ea5650dc’ saved [30632/30632]
+
+
+2024-10-02_23:30:09
+found new banner: 7d291152-7be9-11ef-9e92-7e88ea5650dc
+
+2024-10-02_23:30:09
+closing parser
+
+time: 23:30:09 02.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_00:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 00:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/af9aa8e4-80ab-11ef-aecf-02ca0cff91cf.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55274 (54K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/af9aa8e4-80ab-11ef-aecf-02ca0cff91cf’
+
+     0K .......... .......... .......... .......... .......... 92% 12,9M 0s
+    50K ...                                                   100% 7588G=0,004s
+
+2024-10-03 00:30:10 (13,9 MB/s) - ‘/home/IChusov/ozon_banners/af9aa8e4-80ab-11ef-aecf-02ca0cff91cf’ saved [55274/55274]
+
+
+2024-10-03_00:30:10
+found new banner: af9aa8e4-80ab-11ef-aecf-02ca0cff91cf
+--2024-10-03 00:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/a6225681-7b2d-11ef-adaf-5e3d144debed.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40810 (40K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/a6225681-7b2d-11ef-adaf-5e3d144debed’
+
+     0K .......... .......... .......... .........            100% 30,2M=0,001s
+
+2024-10-03 00:30:10 (30,2 MB/s) - ‘/home/IChusov/ozon_banners/a6225681-7b2d-11ef-adaf-5e3d144debed’ saved [40810/40810]
+
+
+2024-10-03_00:30:10
+found new banner: a6225681-7b2d-11ef-adaf-5e3d144debed
+
+2024-10-03_00:30:10
+closing parser
+
+time: 00:30:11 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_01:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_01:30:09
+closing parser
+
+time: 01:30:09 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_02:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 02:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/48a6716b-74d5-11ef-a3ed-72d471225059.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49298 (48K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/48a6716b-74d5-11ef-a3ed-72d471225059’
+
+     0K .......... .......... .......... .......... ........  100% 13,8M=0,003s
+
+2024-10-03 02:30:10 (13,8 MB/s) - ‘/home/IChusov/ozon_banners/48a6716b-74d5-11ef-a3ed-72d471225059’ saved [49298/49298]
+
+
+2024-10-03_02:30:10
+found new banner: 48a6716b-74d5-11ef-a3ed-72d471225059
+
+2024-10-03_02:30:10
+closing parser
+
+time: 02:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_03:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_03:30:10
+closing parser
+
+time: 03:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_04:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_04:30:10
+closing parser
+
+time: 04:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_05:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 05:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/0b9218a7-7c11-11ef-8e5f-9a8d25b99ff6.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28944 (28K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/0b9218a7-7c11-11ef-8e5f-9a8d25b99ff6’
+
+     0K .......... .......... ........                        100% 17,1M=0,002s
+
+2024-10-03 05:30:09 (17,1 MB/s) - ‘/home/IChusov/ozon_banners/0b9218a7-7c11-11ef-8e5f-9a8d25b99ff6’ saved [28944/28944]
+
+
+2024-10-03_05:30:09
+found new banner: 0b9218a7-7c11-11ef-8e5f-9a8d25b99ff6
+
+2024-10-03_05:30:10
+closing parser
+
+time: 05:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_06:30:10
+closing parser
+
+time: 06:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_07:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_07:30:09
+closing parser
+
+time: 07:30:09 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_08:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_08:30:09
+closing parser
+
+time: 08:30:09 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_09:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_09:30:09
+closing parser
+
+time: 09:30:09 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_10:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_10:30:10
+closing parser
+
+time: 10:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_11:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_11:30:10
+closing parser
+
+time: 11:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_12:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 12:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/465cd66b-69f5-11ef-9bbb-faf9b729d567.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35388 (35K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/465cd66b-69f5-11ef-9bbb-faf9b729d567’
+
+     0K .......... .......... .......... ....                 100% 32,9M=0,001s
+
+2024-10-03 12:30:09 (32,9 MB/s) - ‘/home/IChusov/ozon_banners/465cd66b-69f5-11ef-9bbb-faf9b729d567’ saved [35388/35388]
+
+
+2024-10-03_12:30:09
+found new banner: 465cd66b-69f5-11ef-9bbb-faf9b729d567
+--2024-10-03 12:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/44bc4f77-6aa6-11ef-816c-32cc3223d7cf.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24910 (24K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/44bc4f77-6aa6-11ef-816c-32cc3223d7cf’
+
+     0K .......... .......... ....                            100% 61,6M=0s
+
+2024-10-03 12:30:10 (61,6 MB/s) - ‘/home/IChusov/ozon_banners/44bc4f77-6aa6-11ef-816c-32cc3223d7cf’ saved [24910/24910]
+
+
+2024-10-03_12:30:10
+found new banner: 44bc4f77-6aa6-11ef-816c-32cc3223d7cf
+
+2024-10-03_12:30:10
+closing parser
+
+time: 12:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_13:30:10
+closing parser
+
+time: 13:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_14:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 14:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/aea1fc14-71ba-11ef-8e7f-6e5c5a6b315f.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43560 (43K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/aea1fc14-71ba-11ef-8e7f-6e5c5a6b315f’
+
+     0K .......... .......... .......... .......... ..        100% 11,2M=0,004s
+
+2024-10-03 14:30:10 (11,2 MB/s) - ‘/home/IChusov/ozon_banners/aea1fc14-71ba-11ef-8e7f-6e5c5a6b315f’ saved [43560/43560]
+
+
+2024-10-03_14:30:10
+found new banner: aea1fc14-71ba-11ef-8e7f-6e5c5a6b315f
+
+2024-10-03_14:30:10
+closing parser
+
+time: 14:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_15:30:10
+closing parser
+
+time: 15:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_16:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 16:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/dfb535ce-815d-11ef-8bdc-6295f60c6697.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33660 (33K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/dfb535ce-815d-11ef-8bdc-6295f60c6697’
+
+     0K .......... .......... .......... ..                   100% 16,2M=0,002s
+
+2024-10-03 16:30:09 (16,2 MB/s) - ‘/home/IChusov/ozon_banners/dfb535ce-815d-11ef-8bdc-6295f60c6697’ saved [33660/33660]
+
+
+2024-10-03_16:30:09
+found new banner: dfb535ce-815d-11ef-8bdc-6295f60c6697
+
+2024-10-03_16:30:10
+closing parser
+
+time: 16:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_17:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_17:30:10
+closing parser
+
+time: 17:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_18:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 18:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/0626ab56-66b0-11ef-80ef-7e3b80f7a925.png
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50732 (50K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/0626ab56-66b0-11ef-80ef-7e3b80f7a925’
+
+     0K .......... .......... .......... .......... ......... 100% 13,6M=0,004s
+
+2024-10-03 18:30:10 (13,6 MB/s) - ‘/home/IChusov/ozon_banners/0626ab56-66b0-11ef-80ef-7e3b80f7a925’ saved [50732/50732]
+
+
+2024-10-03_18:30:10
+found new banner: 0626ab56-66b0-11ef-80ef-7e3b80f7a925
+
+2024-10-03_18:30:10
+closing parser
+
+time: 18:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_19:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_19:30:10
+closing parser
+
+time: 19:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_20:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_20:30:09
+closing parser
+
+time: 20:30:09 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-03 21:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/57fc4344-815e-11ef-930a-bedd680708ff.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32486 (32K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/57fc4344-815e-11ef-930a-bedd680708ff’
+
+     0K .......... .......... .......... .                    100% 9,90M=0,003s
+
+2024-10-03 21:30:10 (9,90 MB/s) - ‘/home/IChusov/ozon_banners/57fc4344-815e-11ef-930a-bedd680708ff’ saved [32486/32486]
+
+
+2024-10-03_21:30:10
+found new banner: 57fc4344-815e-11ef-930a-bedd680708ff
+
+2024-10-03_21:30:10
+closing parser
+
+time: 21:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_22:30:10
+closing parser
+
+time: 22:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-03_23:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-03_23:30:10
+closing parser
+
+time: 23:30:10 03.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_00:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/9519f635-7b4c-11ef-94b4-ea1e1461c399.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23510 (23K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/9519f635-7b4c-11ef-94b4-ea1e1461c399’
+
+     0K .......... .......... ..                              100% 36,4M=0,001s
+
+2024-10-04 00:30:10 (36,4 MB/s) - ‘/home/IChusov/ozon_banners/9519f635-7b4c-11ef-94b4-ea1e1461c399’ saved [23510/23510]
+
+
+2024-10-04_00:30:10
+found new banner: 9519f635-7b4c-11ef-94b4-ea1e1461c399
+
+2024-10-04_00:30:10
+closing parser
+
+time: 00:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_01:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 01:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/55360508-7fcf-11ef-8e39-06cfd263c7e9.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27560 (27K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/55360508-7fcf-11ef-8e39-06cfd263c7e9’
+
+     0K .......... .......... ......                          100% 67,7M=0s
+
+2024-10-04 01:30:09 (67,7 MB/s) - ‘/home/IChusov/ozon_banners/55360508-7fcf-11ef-8e39-06cfd263c7e9’ saved [27560/27560]
+
+
+2024-10-04_01:30:09
+found new banner: 55360508-7fcf-11ef-8e39-06cfd263c7e9
+
+2024-10-04_01:30:10
+closing parser
+
+time: 01:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_02:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_02:30:09
+closing parser
+
+time: 02:30:09 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_03:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_03:30:09
+closing parser
+
+time: 03:30:09 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_04:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 04:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/142556f8-7f49-11ef-8dca-06d5a1a9deaa.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33464 (33K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/142556f8-7f49-11ef-8dca-06d5a1a9deaa’
+
+     0K .......... .......... .......... ..                   100% 31,4M=0,001s
+
+2024-10-04 04:30:10 (31,4 MB/s) - ‘/home/IChusov/ozon_banners/142556f8-7f49-11ef-8dca-06d5a1a9deaa’ saved [33464/33464]
+
+
+2024-10-04_04:30:10
+found new banner: 142556f8-7f49-11ef-8dca-06d5a1a9deaa
+
+2024-10-04_04:30:10
+closing parser
+
+time: 04:30:11 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_05:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_05:30:09
+closing parser
+
+time: 05:30:09 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_06:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 06:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/03200faf-815e-11ef-b973-2a6cd23f747d.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35290 (34K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/03200faf-815e-11ef-b973-2a6cd23f747d’
+
+     0K .......... .......... .......... ....                 100% 42,7M=0,001s
+
+2024-10-04 06:30:09 (42,7 MB/s) - ‘/home/IChusov/ozon_banners/03200faf-815e-11ef-b973-2a6cd23f747d’ saved [35290/35290]
+
+
+2024-10-04_06:30:09
+found new banner: 03200faf-815e-11ef-b973-2a6cd23f747d
+
+2024-10-04_06:30:09
+closing parser
+
+time: 06:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_07:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_07:30:09
+closing parser
+
+time: 07:30:09 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_08:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 08:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/6560726f-74d5-11ef-ad1c-3a7f01269ed1.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25110 (25K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/6560726f-74d5-11ef-ad1c-3a7f01269ed1’
+
+     0K .......... .......... ....                            100% 47,3M=0,001s
+
+2024-10-04 08:30:10 (47,3 MB/s) - ‘/home/IChusov/ozon_banners/6560726f-74d5-11ef-ad1c-3a7f01269ed1’ saved [25110/25110]
+
+
+2024-10-04_08:30:10
+found new banner: 6560726f-74d5-11ef-ad1c-3a7f01269ed1
+
+2024-10-04_08:30:10
+closing parser
+
+time: 08:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_09:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 09:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/9dd3e2a1-815e-11ef-930a-bedd680708ff.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33418 (33K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/9dd3e2a1-815e-11ef-930a-bedd680708ff’
+
+     0K .......... .......... .......... ..                   100% 26,5M=0,001s
+
+2024-10-04 09:30:09 (26,5 MB/s) - ‘/home/IChusov/ozon_banners/9dd3e2a1-815e-11ef-930a-bedd680708ff’ saved [33418/33418]
+
+
+2024-10-04_09:30:09
+found new banner: 9dd3e2a1-815e-11ef-930a-bedd680708ff
+
+2024-10-04_09:30:09
+closing parser
+
+time: 09:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_10:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_10:30:10
+closing parser
+
+time: 10:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_11:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_11:30:09
+closing parser
+
+time: 11:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_12:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_12:30:09
+closing parser
+
+time: 12:30:09 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_13:30:10
+closing parser
+
+time: 13:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_14:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_14:30:10
+closing parser
+
+time: 14:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 15:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/17b99611-7ffe-11ef-bee3-7a49b4df8dbb.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32970 (32K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/17b99611-7ffe-11ef-bee3-7a49b4df8dbb’
+
+     0K .......... .......... .......... ..                   100% 33,3M=0,001s
+
+2024-10-04 15:30:09 (33,3 MB/s) - ‘/home/IChusov/ozon_banners/17b99611-7ffe-11ef-bee3-7a49b4df8dbb’ saved [32970/32970]
+
+
+2024-10-04_15:30:09
+found new banner: 17b99611-7ffe-11ef-bee3-7a49b4df8dbb
+
+2024-10-04_15:30:09
+closing parser
+
+time: 15:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_16:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 16:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/29bcabfd-7ccb-11ef-9a14-627465bceb22.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57888 (57K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/29bcabfd-7ccb-11ef-9a14-627465bceb22’
+
+     0K .......... .......... .......... .......... .......... 88% 8,52M 0s
+    50K ......                                                100% 22,1M=0,006s
+
+2024-10-04 16:30:09 (9,17 MB/s) - ‘/home/IChusov/ozon_banners/29bcabfd-7ccb-11ef-9a14-627465bceb22’ saved [57888/57888]
+
+
+2024-10-04_16:30:09
+found new banner: 29bcabfd-7ccb-11ef-9a14-627465bceb22
+
+2024-10-04_16:30:09
+closing parser
+
+time: 16:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_17:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_17:30:09
+closing parser
+
+time: 17:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_18:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_18:30:09
+closing parser
+
+time: 18:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_19:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-04 19:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/846d4dec-824a-11ef-b2dd-eaea533d7507.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33660 (33K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/846d4dec-824a-11ef-b2dd-eaea533d7507’
+
+     0K .......... .......... .......... ..                   100% 37,6M=0,001s
+
+2024-10-04 19:30:09 (37,6 MB/s) - ‘/home/IChusov/ozon_banners/846d4dec-824a-11ef-b2dd-eaea533d7507’ saved [33660/33660]
+
+
+2024-10-04_19:30:09
+found new banner: 846d4dec-824a-11ef-b2dd-eaea533d7507
+
+2024-10-04_19:30:09
+closing parser
+
+time: 19:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_20:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_20:30:09
+closing parser
+
+time: 20:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_21:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_21:30:09
+closing parser
+
+time: 21:30:09 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_22:30:10
+closing parser
+
+time: 22:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-04_23:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-04_23:30:10
+closing parser
+
+time: 23:30:10 04.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_00:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-05 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/75e09858-818e-11ef-a1ab-5a195b3b46d6.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34596 (34K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/75e09858-818e-11ef-a1ab-5a195b3b46d6’
+
+     0K .......... .......... .......... ...                  100% 15,1M=0,002s
+
+2024-10-05 00:30:09 (15,1 MB/s) - ‘/home/IChusov/ozon_banners/75e09858-818e-11ef-a1ab-5a195b3b46d6’ saved [34596/34596]
+
+
+2024-10-05_00:30:09
+found new banner: 75e09858-818e-11ef-a1ab-5a195b3b46d6
+
+2024-10-05_00:30:10
+closing parser
+
+time: 00:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_01:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_01:30:10
+closing parser
+
+time: 01:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_02:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_02:30:10
+closing parser
+
+time: 02:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_03:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_03:30:09
+closing parser
+
+time: 03:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_04:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_04:30:09
+closing parser
+
+time: 04:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_05:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_05:30:09
+closing parser
+
+time: 05:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_06:30:09
+closing parser
+
+time: 06:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_07:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_07:30:09
+closing parser
+
+time: 07:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_08:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_08:30:09
+closing parser
+
+time: 08:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_09:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_09:30:10
+closing parser
+
+time: 09:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_10:30:03
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_10:30:11
+closing parser
+
+time: 10:30:11 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_11:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_11:30:09
+closing parser
+
+time: 11:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_12:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-05 12:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/93b9d1f4-81d1-11ef-82a6-5619ec260048.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53000 (52K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/93b9d1f4-81d1-11ef-82a6-5619ec260048’
+
+     0K .......... .......... .......... .......... .......... 96% 29,9M 0s
+    50K .                                                     100% 3353G=0,002s
+
+2024-10-05 12:30:10 (31,0 MB/s) - ‘/home/IChusov/ozon_banners/93b9d1f4-81d1-11ef-82a6-5619ec260048’ saved [53000/53000]
+
+
+2024-10-05_12:30:10
+found new banner: 93b9d1f4-81d1-11ef-82a6-5619ec260048
+
+2024-10-05_12:30:10
+closing parser
+
+time: 12:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_13:30:10
+closing parser
+
+time: 13:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_14:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_14:30:10
+closing parser
+
+time: 14:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_15:30:09
+closing parser
+
+time: 15:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_16:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_16:30:09
+closing parser
+
+time: 16:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_17:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_17:30:09
+closing parser
+
+time: 17:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_18:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_18:30:09
+closing parser
+
+time: 18:30:09 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_19:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_19:30:10
+closing parser
+
+time: 19:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_20:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_20:30:10
+closing parser
+
+time: 20:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_21:30:10
+closing parser
+
+time: 21:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_22:30:09
+closing parser
+
+time: 22:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-05_23:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-05_23:30:09
+closing parser
+
+time: 23:30:10 05.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_00:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_00:30:09
+closing parser
+
+time: 00:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_01:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_01:30:10
+closing parser
+
+time: 01:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_02:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_02:30:10
+closing parser
+
+time: 02:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_03:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_03:30:09
+closing parser
+
+time: 03:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_04:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_04:30:09
+closing parser
+
+time: 04:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_05:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_05:30:09
+closing parser
+
+time: 05:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-06 06:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/5db3dd16-7a86-11ef-9375-62a3288c6afb.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34372 (34K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/5db3dd16-7a86-11ef-9375-62a3288c6afb’
+
+     0K .......... .......... .......... ...                  100% 56,9M=0,001s
+
+2024-10-06 06:30:10 (56,9 MB/s) - ‘/home/IChusov/ozon_banners/5db3dd16-7a86-11ef-9375-62a3288c6afb’ saved [34372/34372]
+
+
+2024-10-06_06:30:10
+found new banner: 5db3dd16-7a86-11ef-9375-62a3288c6afb
+
+2024-10-06_06:30:10
+closing parser
+
+time: 06:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_07:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_07:30:10
+closing parser
+
+time: 07:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_08:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_08:30:09
+closing parser
+
+time: 08:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_09:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_09:30:10
+closing parser
+
+time: 09:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_10:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_10:30:10
+closing parser
+
+time: 10:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_11:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_11:30:10
+closing parser
+
+time: 11:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_12:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_12:30:10
+closing parser
+
+time: 12:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_13:30:10
+closing parser
+
+time: 13:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_14:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_14:30:10
+closing parser
+
+time: 14:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_15:30:09
+closing parser
+
+time: 15:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_16:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_16:30:09
+closing parser
+
+time: 16:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_17:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_17:30:10
+closing parser
+
+time: 17:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_18:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_18:30:10
+closing parser
+
+time: 18:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_19:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_19:30:09
+closing parser
+
+time: 19:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_20:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_20:30:09
+closing parser
+
+time: 20:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_21:30:10
+closing parser
+
+time: 21:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_22:30:09
+closing parser
+
+time: 22:30:10 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-06_23:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-06_23:30:09
+closing parser
+
+time: 23:30:09 06.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_00:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_00:30:10
+closing parser
+
+time: 00:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_01:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_01:30:10
+closing parser
+
+time: 01:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_02:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_02:30:09
+closing parser
+
+time: 02:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_03:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_03:30:09
+closing parser
+
+time: 03:30:09 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_04:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_04:30:10
+closing parser
+
+time: 04:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_05:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_05:30:10
+closing parser
+
+time: 05:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-07 06:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/a4080e5f-7763-11ef-8db4-1e099761890f.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27044 (26K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/a4080e5f-7763-11ef-8db4-1e099761890f’
+
+     0K .......... .......... ......                          100% 19,8M=0,001s
+
+2024-10-07 06:30:09 (19,8 MB/s) - ‘/home/IChusov/ozon_banners/a4080e5f-7763-11ef-8db4-1e099761890f’ saved [27044/27044]
+
+
+2024-10-07_06:30:09
+found new banner: a4080e5f-7763-11ef-8db4-1e099761890f
+
+2024-10-07_06:30:09
+closing parser
+
+time: 06:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_07:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_07:30:09
+closing parser
+
+time: 07:30:09 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_08:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_08:30:10
+closing parser
+
+time: 08:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_09:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_09:30:10
+closing parser
+
+time: 09:30:11 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_10:30:04
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_10:30:12
+closing parser
+
+time: 10:30:12 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_11:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_11:30:10
+closing parser
+
+time: 11:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_12:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_12:30:10
+closing parser
+
+time: 12:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_13:30:10
+closing parser
+
+time: 13:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_14:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_14:30:10
+closing parser
+
+time: 14:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_15:30:10
+closing parser
+
+time: 15:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_16:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+Traceback (most recent call last):
+  File "/home/IChusov/parse_banners.py", line 26, in <module>
+    banners = driver.find_element(By.XPATH, "//div[@data-widget='advBanner']")
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 748, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@data-widget='advBanner']"}
+  (Session info: chrome=129.0.6668.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55f779c3f10a <unknown>
+#1 0x55f7799255e0 <unknown>
+#2 0x55f779974be8 <unknown>
+#3 0x55f779974e81 <unknown>
+#4 0x55f7799bb8c4 <unknown>
+#5 0x55f779999b4d <unknown>
+#6 0x55f7799b8d7d <unknown>
+#7 0x55f7799998c3 <unknown>
+#8 0x55f7799676b3 <unknown>
+#9 0x55f77996868e <unknown>
+#10 0x55f779c09b0b <unknown>
+#11 0x55f779c0da91 <unknown>
+#12 0x55f779bf6305 <unknown>
+#13 0x55f779c0e612 <unknown>
+#14 0x55f779bdb46f <unknown>
+#15 0x55f779c2e008 <unknown>
+#16 0x55f779c2e1d3 <unknown>
+#17 0x55f779c3df5c <unknown>
+#18 0x7f91fd16a609 start_thread
+
+
+time: 16:30:09 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_17:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-07 17:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/c1279dae-700d-11ef-bc96-9a681fad2790.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28992 (28K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/c1279dae-700d-11ef-bc96-9a681fad2790’
+
+     0K .......... .......... ........                        100% 23,3M=0,001s
+
+2024-10-07 17:30:09 (23,3 MB/s) - ‘/home/IChusov/ozon_banners/c1279dae-700d-11ef-bc96-9a681fad2790’ saved [28992/28992]
+
+
+2024-10-07_17:30:09
+found new banner: c1279dae-700d-11ef-bc96-9a681fad2790
+
+2024-10-07_17:30:09
+closing parser
+
+time: 17:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_18:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_18:30:09
+closing parser
+
+time: 18:30:09 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_19:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_19:30:10
+closing parser
+
+time: 19:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_20:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_20:30:10
+closing parser
+
+time: 20:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_21:30:09
+closing parser
+
+time: 21:30:09 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_22:30:10
+closing parser
+
+time: 22:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-07_23:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-07_23:30:10
+closing parser
+
+time: 23:30:10 07.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_00:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-08 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/a16a4d3d-831f-11ef-b08c-bea06cb8b3ea.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55234 (54K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/a16a4d3d-831f-11ef-b08c-bea06cb8b3ea’
+
+     0K .......... .......... .......... .......... .......... 92% 13,0M 0s
+    50K ...                                                   100% 7514G=0,004s
+
+2024-10-08 00:30:09 (14,1 MB/s) - ‘/home/IChusov/ozon_banners/a16a4d3d-831f-11ef-b08c-bea06cb8b3ea’ saved [55234/55234]
+
+
+2024-10-08_00:30:09
+found new banner: a16a4d3d-831f-11ef-b08c-bea06cb8b3ea
+
+2024-10-08_00:30:09
+closing parser
+
+time: 00:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_01:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-08 01:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/cd398187-7cb8-11ef-b256-5ed616112760.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18932 (18K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/cd398187-7cb8-11ef-b256-5ed616112760’
+
+     0K .......... ........                                   100% 41,3M=0s
+
+2024-10-08 01:30:09 (41,3 MB/s) - ‘/home/IChusov/ozon_banners/cd398187-7cb8-11ef-b256-5ed616112760’ saved [18932/18932]
+
+
+2024-10-08_01:30:09
+found new banner: cd398187-7cb8-11ef-b256-5ed616112760
+
+2024-10-08_01:30:09
+closing parser
+
+time: 01:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_02:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_02:30:09
+closing parser
+
+time: 02:30:09 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_03:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-08 03:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/9479f75f-8487-11ef-b08c-bea06cb8b3ea.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35070 (34K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/9479f75f-8487-11ef-b08c-bea06cb8b3ea’
+
+     0K .......... .......... .......... ....                 100% 32,3M=0,001s
+
+2024-10-08 03:30:09 (32,3 MB/s) - ‘/home/IChusov/ozon_banners/9479f75f-8487-11ef-b08c-bea06cb8b3ea’ saved [35070/35070]
+
+
+2024-10-08_03:30:09
+found new banner: 9479f75f-8487-11ef-b08c-bea06cb8b3ea
+
+2024-10-08_03:30:09
+closing parser
+
+time: 03:30:09 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_04:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-08 04:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/78ed796d-848b-11ef-8f33-b28259167295.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33248 (32K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/78ed796d-848b-11ef-8f33-b28259167295’
+
+     0K .......... .......... .......... ..                   100% 30,0M=0,001s
+
+2024-10-08 04:30:10 (30,0 MB/s) - ‘/home/IChusov/ozon_banners/78ed796d-848b-11ef-8f33-b28259167295’ saved [33248/33248]
+
+
+2024-10-08_04:30:10
+found new banner: 78ed796d-848b-11ef-8f33-b28259167295
+
+2024-10-08_04:30:10
+closing parser
+
+time: 04:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_05:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_05:30:10
+closing parser
+
+time: 05:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_06:30:10
+closing parser
+
+time: 06:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_07:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_07:30:10
+closing parser
+
+time: 07:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_08:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_08:30:09
+closing parser
+
+time: 08:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_09:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_09:30:09
+closing parser
+
+time: 09:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_10:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_10:30:13
+closing parser
+
+time: 10:30:13 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_11:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_11:30:10
+closing parser
+
+time: 11:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_12:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_12:30:10
+closing parser
+
+time: 12:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_13:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_13:30:09
+closing parser
+
+time: 13:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_14:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_14:30:09
+closing parser
+
+time: 14:30:09 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_15:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_15:30:10
+closing parser
+
+time: 15:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_16:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_16:30:10
+closing parser
+
+time: 16:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_17:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_17:30:10
+closing parser
+
+time: 17:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_18:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_18:30:10
+closing parser
+
+time: 18:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_19:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_19:30:09
+closing parser
+
+time: 19:30:09 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_20:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-08 20:30:10--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/c84c3082-7b33-11ef-95a8-c22ae5e35574.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.193.119, 185.73.195.116
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.193.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19840 (19K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/c84c3082-7b33-11ef-95a8-c22ae5e35574’
+
+     0K .......... .........                                  100% 33,7M=0,001s
+
+2024-10-08 20:30:10 (33,7 MB/s) - ‘/home/IChusov/ozon_banners/c84c3082-7b33-11ef-95a8-c22ae5e35574’ saved [19840/19840]
+
+
+2024-10-08_20:30:10
+found new banner: c84c3082-7b33-11ef-95a8-c22ae5e35574
+
+2024-10-08_20:30:10
+closing parser
+
+time: 20:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_21:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_21:30:10
+closing parser
+
+time: 21:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_22:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_22:30:09
+closing parser
+
+time: 22:30:10 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-08_23:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-08_23:30:09
+closing parser
+
+time: 23:30:09 08.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_00:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+--2024-10-09 00:30:09--  https://cdn1.ozonusercontent.com/s3/sellerassets/ww1450_q80/3e71a2f9-846f-11ef-9021-062fa53ca507.jpeg
+Resolving cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)... 185.73.195.116, 185.73.193.119
+Connecting to cdn1.ozonusercontent.com (cdn1.ozonusercontent.com)|185.73.195.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38090 (37K) [image/webp]
+Saving to: ‘/home/IChusov/ozon_banners/3e71a2f9-846f-11ef-9021-062fa53ca507’
+
+     0K .......... .......... .......... .......              100% 18,2M=0,002s
+
+2024-10-09 00:30:10 (18,2 MB/s) - ‘/home/IChusov/ozon_banners/3e71a2f9-846f-11ef-9021-062fa53ca507’ saved [38090/38090]
+
+
+2024-10-09_00:30:10
+found new banner: 3e71a2f9-846f-11ef-9021-062fa53ca507
+
+2024-10-09_00:30:10
+closing parser
+
+time: 00:30:10 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_01:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_01:30:10
+closing parser
+
+time: 01:30:10 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_02:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_02:30:10
+closing parser
+
+time: 02:30:10 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_03:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_03:30:09
+closing parser
+
+time: 03:30:10 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_04:30:01
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_04:30:09
+closing parser
+
+time: 04:30:09 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_05:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_05:30:10
+closing parser
+
+time: 05:30:10 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_06:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_06:30:10
+closing parser
+
+time: 06:30:10 09.10.2024
+
+/usr/lib/python3/dist-packages/requests/__init__.py:89: RequestsDependencyWarning: urllib3 (2.2.3) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({}) doesn't match a supported "
+
+2024-10-09_07:30:02
+creating driver
+could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+
+2024-10-09_07:30:10
+closing parser
+
+time: 07:30:10 09.10.2024
+
